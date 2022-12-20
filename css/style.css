@@ -1,0 +1,226 @@
+.t1 {
+    position: relative;
+    height: 46px;
+    right: 12px;
+    
+   
+    
+   } 
+   .t2 {
+    position: absolute;
+    font-size: 13px;
+    padding-top: 12px;
+    display:inline-flex;
+    padding: 15px;
+    right: 190px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .t2 a{
+        text-decoration: none;
+        color: rgba(0,0,0,.87)
+    }
+
+    .t2 a:hover {
+        text-decoration: underline;
+    }
+
+   .t3 {
+    position: absolute;
+    right: 145px;
+    padding-top: 2px;
+ 
+   }
+   .img1{
+    padding: 8px;
+    
+    border-radius:10px;
+    margin-top: 7px;
+    }
+    .img1:hover {
+    background-color:rgb(230, 225, 225)
+    }
+    
+
+   
+   .t4 a{
+    position: absolute;
+    right: 0px;
+    background-color: rgb(100, 100, 252);
+    color: white;
+    bottom: 5px;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    
+    }
+    .t4 a:hover{
+      background-color:  rgb(72, 72, 238)
+
+
+    }
+   .t5 {
+    padding-left: 15px;
+     }
+     /* TOP */
+
+     /* CENTER */
+     #logo1 {
+        
+        padding-top: 37.5px;
+        margin-top: 10px;
+     }
+
+     .srchbut {
+        position: relative;
+        border: 1px solid rgba(175, 167, 167, 0.514);
+        width: 582px;
+        height: 44px;
+        margin-left: 28.5%;
+        margin-right: 28.5%;
+        border-radius: 22px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+     }
+     .srchbut2 {
+        position: absolute;
+        width: 480px;
+        padding:11px;
+        padding-left: 40px;
+        height: 34px;
+        font-size: 16px;
+        
+     }
+     .bytc {
+        padding: 12px;
+        margin: auto;
+     }
+     .mic {
+       position: absolute;
+       right: 44px;
+       margin-top: -35px;
+       
+     }
+     .button {
+        position: absolute;
+        
+        font-size: 14px;
+        padding:9.5px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 19.7%;
+        background-color: rgba(230, 225, 225, 0.295);
+        color: #2f3f509a;
+        margin-top: 36px;
+          border-radius: 2px;
+         padding-right: 16px;
+         padding-left: 16px;
+        
+        
+        }
+        .button2 {
+         position: absolute;
+         margin-left: 42.8%;
+         padding-top: 9.5px;
+         padding-bottom: 9.5px;
+         font-size: 14px;
+         font-family: Arial, Helvetica, sans-serif;
+         margin-top: 36px;
+         background-color: rgba(230, 225, 225, 0.295);
+         border-radius: 2px;
+         padding-right: 16px;
+         padding-left: 16px;
+         
+         
+         }
+            .button2:hover{
+            border: 1px groove #f2f2f2;
+  
+         }
+         .button:hover{
+            border: 1px groove #f2f2f2;
+         }
+      /* CENTER */
+
+      /* FOOTER */
+      .trk {
+         
+         position: relative;
+         font-size: 15px;
+         background-color: #b8b9bb31;
+         padding: 15px 30px;
+         width: 96.2%;
+         color:#70757a;
+         font-family: Arial, Helvetica, sans-serif;
+         margin-top: 25%;
+         margin-left: -7px;
+         height: 100%;
+         border-bottom: 1px solid #dadce0;
+      }
+      .footlist1 {
+         position: absolute;
+         font-size: 14px;
+         
+         font-family: Arial, Helvetica, sans-serif;
+         background-color:#b8b9bb31 ;
+         margin-top: 16px;
+         width: 95.5%;
+         margin-left: -25px;
+         padding: 15px 30px;
+         
+         
+      }
+      .footlist1 a{
+         text-decoration: none;
+         padding: 1px;
+         padding-left: 3px;
+         color: #70757a;
+         margin-inline: 7px;
+         
+      }
+
+      .footlist1 a:hover{
+         text-decoration: underline;
+
+      }
+      .footlist2 {
+         position: absolute;
+         font-size: 14px;
+         padding-top: 30px;
+         font-family: Arial, Helvetica, sans-serif;
+         margin-left: 40.5%;
+    
+      }
+      
+      .footlist2 a{
+         text-align: center;
+         color: #70757a;
+         text-decoration: none;
+         
+      }
+
+      .footlist2 a:hover{
+         text-decoration: underline;
+      }
+      
+      .footlist3 {
+         position: absolute;
+         font-size: 14px;
+         padding-top: 30px ;
+         font-family: Arial, Helvetica, sans-serif;
+         right: 0px;
+
+      }
+
+      .footlist3 a{
+         text-decoration: none;
+         color: #70757a;
+         margin-inline: 7px;
+         padding-right: 15px;
+         
+      }
+      .footlist3 a:hover{
+         text-decoration: underline;
+      }
+      /* FOOTER */
